@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Hantel</string>
+
+    <string name="progress">Progreso</string>
+
+    <!-- Placeholders -->
+    <string name="text_placeholder">Texto de prueba</string>
 </resources>
