@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Elements -->
-    <dimen name="logo_size">350dp</dimen>
-    <dimen name="icon_size_small">50dp</dimen>
-    <dimen name="icon_size_tiny">25dp</dimen>
+    <dimen name="logo_size">350dip</dimen>
+    <dimen name="icon_size_small">50dip</dimen>
+    <dimen name="icon_size_tiny">25dip</dimen>
 
     <dimen name="loading_bar_height">25dp</dimen>
 
@@ -13,6 +13,7 @@
 
     <dimen name="padding_normal">18dp</dimen>
 
+    <dimen name="radius_small">15dp</dimen>
     <dimen name="radius_normal">25dp</dimen>
 
     <!-- Text -->
