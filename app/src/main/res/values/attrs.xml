@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="CycleMenuElement">
+    <declare-styleable name="CycleProgressBar">
         <attr name="android:icon" format="reference" />
     </declare-styleable>
 </resources>
